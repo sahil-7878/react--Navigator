@@ -64,12 +64,14 @@ CRUD-Router-app/
 * `useEffect()` loads stored data on component mount
 
 ---
-![alt text](s3-1.png) ![alt text](s2-1.png) ![alt text](s1-1.png)
+ ![alt text](s2-1.png) ![alt text](s1-1.png)
 
 
 📜 License
 
 This project is developed for educational purposes only.
+
+
 
 ---
 
